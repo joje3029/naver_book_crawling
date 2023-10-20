@@ -1,0 +1,8 @@
+하면서 배운점
+1. 화면이 동적일 때, 스크롤 한계도 확인한다.
+https://ddingmin00.tistory.com/entry/Selenium-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%82%B4%EB%A0%A4%EA%B0%80%EB%A9%B0-%EB%AC%B4%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0
+여기가 이거 해결법 설명 잘해놓음
+2. 그리고 대량 크롤링하면 네이버가 차단함. 봇으로 인한 해킹이라고 인지.
+해결책 : headless기능 사용 안함 + user-agent 값 설정(크롤러가 아닌척해야함)
+https://yeko90.tistory.com/entry/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80-%EA%B8%B0%EC%B4%88-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%87%BC%ED%95%91-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%A4%91-%EC%B0%A8%EB%8B%A8headless-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD
+여기가 이거 설명 잘해놓음
